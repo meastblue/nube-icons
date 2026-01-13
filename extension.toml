@@ -1,0 +1,7 @@
+id = "nube-icons"
+name = "Nube Icons"
+version = "0.1.0"
+schema_version = 1
+authors = ["meastblue"]
+description = "A cozy icon theme for Zed"
+repository = "https://github.com/meastblue/nube-icons"

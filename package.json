@@ -1,0 +1,20 @@
+{
+  "name": "nube-icons",
+  "displayName": "Nube Icons",
+  "description": "A cozy icon theme for Zed",
+  "version": "0.1.0",
+  "author": "meastblue",
+  "license": "MIT",
+  "type": "module",
+  "packageManager": "bun@1.1.0",
+  "scripts": {
+    "build": "bun run src/index.ts",
+    "dev": "bun --watch src/index.ts",
+    "copy-icons": "bun run src/copy-icons.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.1.0",
+    "@types/node": "^22.0.0",
+    "typescript": "^5.8.0"
+  }
+}
