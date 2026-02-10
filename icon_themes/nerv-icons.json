@@ -7,1478 +7,742 @@
       "name": "Nerv Icons",
       "appearance": "dark",
       "directory_icons": {
-        "collapsed": {
-          "path": "./icons/folder.svg"
-        },
-        "expanded": {
-          "path": "./icons/folder_open.svg"
-        }
+        "collapsed": "./icons/folder.svg",
+        "expanded": "./icons/folder_open.svg"
       },
       "named_directory_icons": {
         "src": {
-          "collapsed": {
-            "path": "./icons/_fd_src.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_src_open.svg"
-          }
+          "collapsed": "./icons/_fd_src.svg",
+          "expanded": "./icons/_fd_src_open.svg"
         },
         "source": {
-          "collapsed": {
-            "path": "./icons/_fd_src.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_src_open.svg"
-          }
+          "collapsed": "./icons/_fd_src.svg",
+          "expanded": "./icons/_fd_src_open.svg"
         },
         "sources": {
-          "collapsed": {
-            "path": "./icons/_fd_src.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_src_open.svg"
-          }
+          "collapsed": "./icons/_fd_src.svg",
+          "expanded": "./icons/_fd_src_open.svg"
         },
         "dist": {
-          "collapsed": {
-            "path": "./icons/_fd_dist.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_dist_open.svg"
-          }
+          "collapsed": "./icons/_fd_dist.svg",
+          "expanded": "./icons/_fd_dist_open.svg"
         },
         "build": {
-          "collapsed": {
-            "path": "./icons/_fd_dist.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_dist_open.svg"
-          }
+          "collapsed": "./icons/_fd_dist.svg",
+          "expanded": "./icons/_fd_dist_open.svg"
         },
         "out": {
-          "collapsed": {
-            "path": "./icons/_fd_dist.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_dist_open.svg"
-          }
+          "collapsed": "./icons/_fd_dist.svg",
+          "expanded": "./icons/_fd_dist_open.svg"
         },
         "output": {
-          "collapsed": {
-            "path": "./icons/_fd_dist.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_dist_open.svg"
-          }
+          "collapsed": "./icons/_fd_dist.svg",
+          "expanded": "./icons/_fd_dist_open.svg"
         },
         "target": {
-          "collapsed": {
-            "path": "./icons/_fd_dist.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_dist_open.svg"
-          }
+          "collapsed": "./icons/_fd_dist.svg",
+          "expanded": "./icons/_fd_dist_open.svg"
         },
         "release": {
-          "collapsed": {
-            "path": "./icons/_fd_dist.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_dist_open.svg"
-          }
+          "collapsed": "./icons/_fd_dist.svg",
+          "expanded": "./icons/_fd_dist_open.svg"
         },
         "node_modules": {
-          "collapsed": {
-            "path": "./icons/_fd_node.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_node_open.svg"
-          }
+          "collapsed": "./icons/_fd_node.svg",
+          "expanded": "./icons/_fd_node_open.svg"
         },
         "vendor": {
-          "collapsed": {
-            "path": "./icons/_fd_vendor.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_vendor_open.svg"
-          }
+          "collapsed": "./icons/_fd_vendor.svg",
+          "expanded": "./icons/_fd_vendor_open.svg"
         },
         "config": {
-          "collapsed": {
-            "path": "./icons/_fd_config.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_config_open.svg"
-          }
+          "collapsed": "./icons/_fd_config.svg",
+          "expanded": "./icons/_fd_config_open.svg"
         },
         "configs": {
-          "collapsed": {
-            "path": "./icons/_fd_config.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_config_open.svg"
-          }
+          "collapsed": "./icons/_fd_config.svg",
+          "expanded": "./icons/_fd_config_open.svg"
         },
         ".config": {
-          "collapsed": {
-            "path": "./icons/_fd_config.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_config_open.svg"
-          }
+          "collapsed": "./icons/_fd_config.svg",
+          "expanded": "./icons/_fd_config_open.svg"
         },
         "settings": {
-          "collapsed": {
-            "path": "./icons/_fd_config.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_config_open.svg"
-          }
+          "collapsed": "./icons/_fd_config.svg",
+          "expanded": "./icons/_fd_config_open.svg"
         },
         "configuration": {
-          "collapsed": {
-            "path": "./icons/_fd_config.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_config_open.svg"
-          }
+          "collapsed": "./icons/_fd_config.svg",
+          "expanded": "./icons/_fd_config_open.svg"
         },
         "test": {
-          "collapsed": {
-            "path": "./icons/_fd_test.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_test_open.svg"
-          }
+          "collapsed": "./icons/_fd_test.svg",
+          "expanded": "./icons/_fd_test_open.svg"
         },
         "tests": {
-          "collapsed": {
-            "path": "./icons/_fd_test.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_test_open.svg"
-          }
+          "collapsed": "./icons/_fd_test.svg",
+          "expanded": "./icons/_fd_test_open.svg"
         },
         "__tests__": {
-          "collapsed": {
-            "path": "./icons/_fd_test.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_test_open.svg"
-          }
+          "collapsed": "./icons/_fd_test.svg",
+          "expanded": "./icons/_fd_test_open.svg"
         },
         "__test__": {
-          "collapsed": {
-            "path": "./icons/_fd_test.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_test_open.svg"
-          }
+          "collapsed": "./icons/_fd_test.svg",
+          "expanded": "./icons/_fd_test_open.svg"
         },
         "spec": {
-          "collapsed": {
-            "path": "./icons/_fd_test.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_test_open.svg"
-          }
+          "collapsed": "./icons/_fd_test.svg",
+          "expanded": "./icons/_fd_test_open.svg"
         },
         "specs": {
-          "collapsed": {
-            "path": "./icons/_fd_test.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_test_open.svg"
-          }
+          "collapsed": "./icons/_fd_test.svg",
+          "expanded": "./icons/_fd_test_open.svg"
         },
         "e2e": {
-          "collapsed": {
-            "path": "./icons/_fd_e2e.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_e2e_open.svg"
-          }
+          "collapsed": "./icons/_fd_e2e.svg",
+          "expanded": "./icons/_fd_e2e_open.svg"
         },
         "cypress": {
-          "collapsed": {
-            "path": "./icons/_fd_cypress.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_cypress_open.svg"
-          }
+          "collapsed": "./icons/_fd_cypress.svg",
+          "expanded": "./icons/_fd_cypress_open.svg"
         },
         "components": {
-          "collapsed": {
-            "path": "./icons/_fd_component.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_component_open.svg"
-          }
+          "collapsed": "./icons/_fd_component.svg",
+          "expanded": "./icons/_fd_component_open.svg"
         },
         "component": {
-          "collapsed": {
-            "path": "./icons/_fd_component.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_component_open.svg"
-          }
+          "collapsed": "./icons/_fd_component.svg",
+          "expanded": "./icons/_fd_component_open.svg"
         },
         "widgets": {
-          "collapsed": {
-            "path": "./icons/_fd_component.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_component_open.svg"
-          }
+          "collapsed": "./icons/_fd_component.svg",
+          "expanded": "./icons/_fd_component_open.svg"
         },
         "views": {
-          "collapsed": {
-            "path": "./icons/_fd_view.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_view_open.svg"
-          }
+          "collapsed": "./icons/_fd_view.svg",
+          "expanded": "./icons/_fd_view_open.svg"
         },
         "view": {
-          "collapsed": {
-            "path": "./icons/_fd_view.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_view_open.svg"
-          }
+          "collapsed": "./icons/_fd_view.svg",
+          "expanded": "./icons/_fd_view_open.svg"
         },
         "pages": {
-          "collapsed": {
-            "path": "./icons/_fd_view.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_view_open.svg"
-          }
+          "collapsed": "./icons/_fd_view.svg",
+          "expanded": "./icons/_fd_view_open.svg"
         },
         "page": {
-          "collapsed": {
-            "path": "./icons/_fd_view.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_view_open.svg"
-          }
+          "collapsed": "./icons/_fd_view.svg",
+          "expanded": "./icons/_fd_view_open.svg"
         },
         "layouts": {
-          "collapsed": {
-            "path": "./icons/_fd_view.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_view_open.svg"
-          }
+          "collapsed": "./icons/_fd_view.svg",
+          "expanded": "./icons/_fd_view_open.svg"
         },
         "layout": {
-          "collapsed": {
-            "path": "./icons/_fd_view.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_view_open.svg"
-          }
+          "collapsed": "./icons/_fd_view.svg",
+          "expanded": "./icons/_fd_view_open.svg"
         },
         "templates": {
-          "collapsed": {
-            "path": "./icons/_fd_template.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_template_open.svg"
-          }
+          "collapsed": "./icons/_fd_template.svg",
+          "expanded": "./icons/_fd_template_open.svg"
         },
         "template": {
-          "collapsed": {
-            "path": "./icons/_fd_template.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_template_open.svg"
-          }
+          "collapsed": "./icons/_fd_template.svg",
+          "expanded": "./icons/_fd_template_open.svg"
         },
         "assets": {
-          "collapsed": {
-            "path": "./icons/_fd_asset.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_asset_open.svg"
-          }
+          "collapsed": "./icons/_fd_asset.svg",
+          "expanded": "./icons/_fd_asset_open.svg"
         },
         "static": {
-          "collapsed": {
-            "path": "./icons/_fd_asset.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_asset_open.svg"
-          }
+          "collapsed": "./icons/_fd_asset.svg",
+          "expanded": "./icons/_fd_asset_open.svg"
         },
         "public": {
-          "collapsed": {
-            "path": "./icons/_fd_public.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_public_open.svg"
-          }
+          "collapsed": "./icons/_fd_public.svg",
+          "expanded": "./icons/_fd_public_open.svg"
         },
         "resources": {
-          "collapsed": {
-            "path": "./icons/_fd_asset.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_asset_open.svg"
-          }
+          "collapsed": "./icons/_fd_asset.svg",
+          "expanded": "./icons/_fd_asset_open.svg"
         },
         "images": {
-          "collapsed": {
-            "path": "./icons/_fd_images.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_images_open.svg"
-          }
+          "collapsed": "./icons/_fd_images.svg",
+          "expanded": "./icons/_fd_images_open.svg"
         },
         "image": {
-          "collapsed": {
-            "path": "./icons/_fd_images.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_images_open.svg"
-          }
+          "collapsed": "./icons/_fd_images.svg",
+          "expanded": "./icons/_fd_images_open.svg"
         },
         "img": {
-          "collapsed": {
-            "path": "./icons/_fd_images.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_images_open.svg"
-          }
+          "collapsed": "./icons/_fd_images.svg",
+          "expanded": "./icons/_fd_images_open.svg"
         },
         "icons": {
-          "collapsed": {
-            "path": "./icons/_fd_images.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_images_open.svg"
-          }
+          "collapsed": "./icons/_fd_images.svg",
+          "expanded": "./icons/_fd_images_open.svg"
         },
         "icon": {
-          "collapsed": {
-            "path": "./icons/_fd_images.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_images_open.svg"
-          }
+          "collapsed": "./icons/_fd_images.svg",
+          "expanded": "./icons/_fd_images_open.svg"
         },
         "svg": {
-          "collapsed": {
-            "path": "./icons/_fd_images.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_images_open.svg"
-          }
+          "collapsed": "./icons/_fd_images.svg",
+          "expanded": "./icons/_fd_images_open.svg"
         },
         "screenshots": {
-          "collapsed": {
-            "path": "./icons/_fd_images.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_images_open.svg"
-          }
+          "collapsed": "./icons/_fd_images.svg",
+          "expanded": "./icons/_fd_images_open.svg"
         },
         "fonts": {
-          "collapsed": {
-            "path": "./icons/_fd_fonts.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_fonts_open.svg"
-          }
+          "collapsed": "./icons/_fd_fonts.svg",
+          "expanded": "./icons/_fd_fonts_open.svg"
         },
         "font": {
-          "collapsed": {
-            "path": "./icons/_fd_fonts.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_fonts_open.svg"
-          }
+          "collapsed": "./icons/_fd_fonts.svg",
+          "expanded": "./icons/_fd_fonts_open.svg"
         },
         "audio": {
-          "collapsed": {
-            "path": "./icons/_fd_audio.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_audio_open.svg"
-          }
+          "collapsed": "./icons/_fd_audio.svg",
+          "expanded": "./icons/_fd_audio_open.svg"
         },
         "audios": {
-          "collapsed": {
-            "path": "./icons/_fd_audio.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_audio_open.svg"
-          }
+          "collapsed": "./icons/_fd_audio.svg",
+          "expanded": "./icons/_fd_audio_open.svg"
         },
         "sounds": {
-          "collapsed": {
-            "path": "./icons/_fd_audio.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_audio_open.svg"
-          }
+          "collapsed": "./icons/_fd_audio.svg",
+          "expanded": "./icons/_fd_audio_open.svg"
         },
         "video": {
-          "collapsed": {
-            "path": "./icons/_fd_video.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_video_open.svg"
-          }
+          "collapsed": "./icons/_fd_video.svg",
+          "expanded": "./icons/_fd_video_open.svg"
         },
         "videos": {
-          "collapsed": {
-            "path": "./icons/_fd_video.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_video_open.svg"
-          }
+          "collapsed": "./icons/_fd_video.svg",
+          "expanded": "./icons/_fd_video_open.svg"
         },
         "media": {
-          "collapsed": {
-            "path": "./icons/_fd_media.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_media_open.svg"
-          }
+          "collapsed": "./icons/_fd_media.svg",
+          "expanded": "./icons/_fd_media_open.svg"
         },
         "styles": {
-          "collapsed": {
-            "path": "./icons/_fd_style.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_style_open.svg"
-          }
+          "collapsed": "./icons/_fd_style.svg",
+          "expanded": "./icons/_fd_style_open.svg"
         },
         "style": {
-          "collapsed": {
-            "path": "./icons/_fd_style.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_style_open.svg"
-          }
+          "collapsed": "./icons/_fd_style.svg",
+          "expanded": "./icons/_fd_style_open.svg"
         },
         "css": {
-          "collapsed": {
-            "path": "./icons/_fd_css.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_css_open.svg"
-          }
+          "collapsed": "./icons/_fd_css.svg",
+          "expanded": "./icons/_fd_css_open.svg"
         },
         "scss": {
-          "collapsed": {
-            "path": "./icons/_fd_sass.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_sass_open.svg"
-          }
+          "collapsed": "./icons/_fd_sass.svg",
+          "expanded": "./icons/_fd_sass_open.svg"
         },
         "sass": {
-          "collapsed": {
-            "path": "./icons/_fd_sass.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_sass_open.svg"
-          }
+          "collapsed": "./icons/_fd_sass.svg",
+          "expanded": "./icons/_fd_sass_open.svg"
         },
         "less": {
-          "collapsed": {
-            "path": "./icons/_fd_less.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_less_open.svg"
-          }
+          "collapsed": "./icons/_fd_less.svg",
+          "expanded": "./icons/_fd_less_open.svg"
         },
         "scripts": {
-          "collapsed": {
-            "path": "./icons/_fd_script.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_script_open.svg"
-          }
+          "collapsed": "./icons/_fd_script.svg",
+          "expanded": "./icons/_fd_script_open.svg"
         },
         "script": {
-          "collapsed": {
-            "path": "./icons/_fd_script.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_script_open.svg"
-          }
+          "collapsed": "./icons/_fd_script.svg",
+          "expanded": "./icons/_fd_script_open.svg"
         },
         "js": {
-          "collapsed": {
-            "path": "./icons/_fd_js.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_js_open.svg"
-          }
+          "collapsed": "./icons/_fd_js.svg",
+          "expanded": "./icons/_fd_js_open.svg"
         },
         "docs": {
-          "collapsed": {
-            "path": "./icons/_fd_docs.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_docs_open.svg"
-          }
+          "collapsed": "./icons/_fd_docs.svg",
+          "expanded": "./icons/_fd_docs_open.svg"
         },
         "doc": {
-          "collapsed": {
-            "path": "./icons/_fd_docs.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_docs_open.svg"
-          }
+          "collapsed": "./icons/_fd_docs.svg",
+          "expanded": "./icons/_fd_docs_open.svg"
         },
         "documentation": {
-          "collapsed": {
-            "path": "./icons/_fd_docs.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_docs_open.svg"
-          }
+          "collapsed": "./icons/_fd_docs.svg",
+          "expanded": "./icons/_fd_docs_open.svg"
         },
         "lib": {
-          "collapsed": {
-            "path": "./icons/_fd_library.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_library_open.svg"
-          }
+          "collapsed": "./icons/_fd_library.svg",
+          "expanded": "./icons/_fd_library_open.svg"
         },
         "libs": {
-          "collapsed": {
-            "path": "./icons/_fd_library.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_library_open.svg"
-          }
+          "collapsed": "./icons/_fd_library.svg",
+          "expanded": "./icons/_fd_library_open.svg"
         },
         "library": {
-          "collapsed": {
-            "path": "./icons/_fd_library.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_library_open.svg"
-          }
+          "collapsed": "./icons/_fd_library.svg",
+          "expanded": "./icons/_fd_library_open.svg"
         },
         "libraries": {
-          "collapsed": {
-            "path": "./icons/_fd_library.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_library_open.svg"
-          }
+          "collapsed": "./icons/_fd_library.svg",
+          "expanded": "./icons/_fd_library_open.svg"
         },
         "helpers": {
-          "collapsed": {
-            "path": "./icons/_fd_helper.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_helper_open.svg"
-          }
+          "collapsed": "./icons/_fd_helper.svg",
+          "expanded": "./icons/_fd_helper_open.svg"
         },
         "helper": {
-          "collapsed": {
-            "path": "./icons/_fd_helper.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_helper_open.svg"
-          }
+          "collapsed": "./icons/_fd_helper.svg",
+          "expanded": "./icons/_fd_helper_open.svg"
         },
         "utils": {
-          "collapsed": {
-            "path": "./icons/_fd_tools.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_tools_open.svg"
-          }
+          "collapsed": "./icons/_fd_tools.svg",
+          "expanded": "./icons/_fd_tools_open.svg"
         },
         "util": {
-          "collapsed": {
-            "path": "./icons/_fd_tools.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_tools_open.svg"
-          }
+          "collapsed": "./icons/_fd_tools.svg",
+          "expanded": "./icons/_fd_tools_open.svg"
         },
         "tools": {
-          "collapsed": {
-            "path": "./icons/_fd_tools.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_tools_open.svg"
-          }
+          "collapsed": "./icons/_fd_tools.svg",
+          "expanded": "./icons/_fd_tools_open.svg"
         },
         "common": {
-          "collapsed": {
-            "path": "./icons/_fd_common.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_common_open.svg"
-          }
+          "collapsed": "./icons/_fd_common.svg",
+          "expanded": "./icons/_fd_common_open.svg"
         },
         "shared": {
-          "collapsed": {
-            "path": "./icons/_fd_shared.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_shared_open.svg"
-          }
+          "collapsed": "./icons/_fd_shared.svg",
+          "expanded": "./icons/_fd_shared_open.svg"
         },
         "data": {
-          "collapsed": {
-            "path": "./icons/_fd_db.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_db_open.svg"
-          }
+          "collapsed": "./icons/_fd_db.svg",
+          "expanded": "./icons/_fd_db_open.svg"
         },
         "database": {
-          "collapsed": {
-            "path": "./icons/_fd_db.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_db_open.svg"
-          }
+          "collapsed": "./icons/_fd_db.svg",
+          "expanded": "./icons/_fd_db_open.svg"
         },
         "db": {
-          "collapsed": {
-            "path": "./icons/_fd_db.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_db_open.svg"
-          }
+          "collapsed": "./icons/_fd_db.svg",
+          "expanded": "./icons/_fd_db_open.svg"
         },
         "models": {
-          "collapsed": {
-            "path": "./icons/_fd_model.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_model_open.svg"
-          }
+          "collapsed": "./icons/_fd_model.svg",
+          "expanded": "./icons/_fd_model_open.svg"
         },
         "model": {
-          "collapsed": {
-            "path": "./icons/_fd_model.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_model_open.svg"
-          }
+          "collapsed": "./icons/_fd_model.svg",
+          "expanded": "./icons/_fd_model_open.svg"
         },
         "entities": {
-          "collapsed": {
-            "path": "./icons/_fd_model.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_model_open.svg"
-          }
+          "collapsed": "./icons/_fd_model.svg",
+          "expanded": "./icons/_fd_model_open.svg"
         },
         "entity": {
-          "collapsed": {
-            "path": "./icons/_fd_model.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_model_open.svg"
-          }
+          "collapsed": "./icons/_fd_model.svg",
+          "expanded": "./icons/_fd_model_open.svg"
         },
         "controllers": {
-          "collapsed": {
-            "path": "./icons/_fd_controller.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_controller_open.svg"
-          }
+          "collapsed": "./icons/_fd_controller.svg",
+          "expanded": "./icons/_fd_controller_open.svg"
         },
         "controller": {
-          "collapsed": {
-            "path": "./icons/_fd_controller.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_controller_open.svg"
-          }
+          "collapsed": "./icons/_fd_controller.svg",
+          "expanded": "./icons/_fd_controller_open.svg"
         },
         "handlers": {
-          "collapsed": {
-            "path": "./icons/_fd_controller.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_controller_open.svg"
-          }
+          "collapsed": "./icons/_fd_controller.svg",
+          "expanded": "./icons/_fd_controller_open.svg"
         },
         "handler": {
-          "collapsed": {
-            "path": "./icons/_fd_controller.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_controller_open.svg"
-          }
+          "collapsed": "./icons/_fd_controller.svg",
+          "expanded": "./icons/_fd_controller_open.svg"
         },
         "services": {
-          "collapsed": {
-            "path": "./icons/_fd_services.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_services_open.svg"
-          }
+          "collapsed": "./icons/_fd_services.svg",
+          "expanded": "./icons/_fd_services_open.svg"
         },
         "service": {
-          "collapsed": {
-            "path": "./icons/_fd_services.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_services_open.svg"
-          }
+          "collapsed": "./icons/_fd_services.svg",
+          "expanded": "./icons/_fd_services_open.svg"
         },
         "routes": {
-          "collapsed": {
-            "path": "./icons/_fd_route.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_route_open.svg"
-          }
+          "collapsed": "./icons/_fd_route.svg",
+          "expanded": "./icons/_fd_route_open.svg"
         },
         "route": {
-          "collapsed": {
-            "path": "./icons/_fd_route.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_route_open.svg"
-          }
+          "collapsed": "./icons/_fd_route.svg",
+          "expanded": "./icons/_fd_route_open.svg"
         },
         "routers": {
-          "collapsed": {
-            "path": "./icons/_fd_route.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_route_open.svg"
-          }
+          "collapsed": "./icons/_fd_route.svg",
+          "expanded": "./icons/_fd_route_open.svg"
         },
         "router": {
-          "collapsed": {
-            "path": "./icons/_fd_route.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_route_open.svg"
-          }
+          "collapsed": "./icons/_fd_route.svg",
+          "expanded": "./icons/_fd_route_open.svg"
         },
         "middleware": {
-          "collapsed": {
-            "path": "./icons/_fd_middleware.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_middleware_open.svg"
-          }
+          "collapsed": "./icons/_fd_middleware.svg",
+          "expanded": "./icons/_fd_middleware_open.svg"
         },
         "middlewares": {
-          "collapsed": {
-            "path": "./icons/_fd_middleware.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_middleware_open.svg"
-          }
+          "collapsed": "./icons/_fd_middleware.svg",
+          "expanded": "./icons/_fd_middleware_open.svg"
         },
         "api": {
-          "collapsed": {
-            "path": "./icons/_fd_api.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_api_open.svg"
-          }
+          "collapsed": "./icons/_fd_api.svg",
+          "expanded": "./icons/_fd_api_open.svg"
         },
         ".api": {
-          "collapsed": {
-            "path": "./icons/_fd_api.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_api_open.svg"
-          }
+          "collapsed": "./icons/_fd_api.svg",
+          "expanded": "./icons/_fd_api_open.svg"
         },
         "apis": {
-          "collapsed": {
-            "path": "./icons/_fd_api.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_api_open.svg"
-          }
+          "collapsed": "./icons/_fd_api.svg",
+          "expanded": "./icons/_fd_api_open.svg"
         },
         "store": {
-          "collapsed": {
-            "path": "./icons/_fd_store.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_store_open.svg"
-          }
+          "collapsed": "./icons/_fd_store.svg",
+          "expanded": "./icons/_fd_store_open.svg"
         },
         "stores": {
-          "collapsed": {
-            "path": "./icons/_fd_store.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_store_open.svg"
-          }
+          "collapsed": "./icons/_fd_store.svg",
+          "expanded": "./icons/_fd_store_open.svg"
         },
         "redux": {
-          "collapsed": {
-            "path": "./icons/_fd_redux.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_redux_open.svg"
-          }
+          "collapsed": "./icons/_fd_redux.svg",
+          "expanded": "./icons/_fd_redux_open.svg"
         },
         "state": {
-          "collapsed": {
-            "path": "./icons/_fd_state.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_state_open.svg"
-          }
+          "collapsed": "./icons/_fd_state.svg",
+          "expanded": "./icons/_fd_state_open.svg"
         },
         "hooks": {
-          "collapsed": {
-            "path": "./icons/_fd_hooks.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_hooks_open.svg"
-          }
+          "collapsed": "./icons/_fd_hooks.svg",
+          "expanded": "./icons/_fd_hooks_open.svg"
         },
         "hook": {
-          "collapsed": {
-            "path": "./icons/_fd_hooks.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_hooks_open.svg"
-          }
+          "collapsed": "./icons/_fd_hooks.svg",
+          "expanded": "./icons/_fd_hooks_open.svg"
         },
         "types": {
-          "collapsed": {
-            "path": "./icons/_fd_typings.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_typings_open.svg"
-          }
+          "collapsed": "./icons/_fd_typings.svg",
+          "expanded": "./icons/_fd_typings_open.svg"
         },
         "typings": {
-          "collapsed": {
-            "path": "./icons/_fd_typings.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_typings_open.svg"
-          }
+          "collapsed": "./icons/_fd_typings.svg",
+          "expanded": "./icons/_fd_typings_open.svg"
         },
         "@types": {
-          "collapsed": {
-            "path": "./icons/_fd_typings.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_typings_open.svg"
-          }
+          "collapsed": "./icons/_fd_typings.svg",
+          "expanded": "./icons/_fd_typings_open.svg"
         },
         "interfaces": {
-          "collapsed": {
-            "path": "./icons/_fd_interfaces.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_interfaces_open.svg"
-          }
+          "collapsed": "./icons/_fd_interfaces.svg",
+          "expanded": "./icons/_fd_interfaces_open.svg"
         },
         "modules": {
-          "collapsed": {
-            "path": "./icons/_fd_module.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_module_open.svg"
-          }
+          "collapsed": "./icons/_fd_module.svg",
+          "expanded": "./icons/_fd_module_open.svg"
         },
         "module": {
-          "collapsed": {
-            "path": "./icons/_fd_module.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_module_open.svg"
-          }
+          "collapsed": "./icons/_fd_module.svg",
+          "expanded": "./icons/_fd_module_open.svg"
         },
         "packages": {
-          "collapsed": {
-            "path": "./icons/_fd_package.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_package_open.svg"
-          }
+          "collapsed": "./icons/_fd_package.svg",
+          "expanded": "./icons/_fd_package_open.svg"
         },
         "package": {
-          "collapsed": {
-            "path": "./icons/_fd_package.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_package_open.svg"
-          }
+          "collapsed": "./icons/_fd_package.svg",
+          "expanded": "./icons/_fd_package_open.svg"
         },
         "plugins": {
-          "collapsed": {
-            "path": "./icons/_fd_plugin.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_plugin_open.svg"
-          }
+          "collapsed": "./icons/_fd_plugin.svg",
+          "expanded": "./icons/_fd_plugin_open.svg"
         },
         "plugin": {
-          "collapsed": {
-            "path": "./icons/_fd_plugin.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_plugin_open.svg"
-          }
+          "collapsed": "./icons/_fd_plugin.svg",
+          "expanded": "./icons/_fd_plugin_open.svg"
         },
         "extensions": {
-          "collapsed": {
-            "path": "./icons/_fd_plugin.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_plugin_open.svg"
-          }
+          "collapsed": "./icons/_fd_plugin.svg",
+          "expanded": "./icons/_fd_plugin_open.svg"
         },
         "extension": {
-          "collapsed": {
-            "path": "./icons/_fd_plugin.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_plugin_open.svg"
-          }
+          "collapsed": "./icons/_fd_plugin.svg",
+          "expanded": "./icons/_fd_plugin_open.svg"
         },
         ".git": {
-          "collapsed": {
-            "path": "./icons/_fd_git.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_git_open.svg"
-          }
+          "collapsed": "./icons/_fd_git.svg",
+          "expanded": "./icons/_fd_git_open.svg"
         },
         ".github": {
-          "collapsed": {
-            "path": "./icons/_fd_github.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_github_open.svg"
-          }
+          "collapsed": "./icons/_fd_github.svg",
+          "expanded": "./icons/_fd_github_open.svg"
         },
         ".gitlab": {
-          "collapsed": {
-            "path": "./icons/_fd_gitlab.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_gitlab_open.svg"
-          }
+          "collapsed": "./icons/_fd_gitlab.svg",
+          "expanded": "./icons/_fd_gitlab_open.svg"
         },
         ".vscode": {
-          "collapsed": {
-            "path": "./icons/_fd_vscode.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_vscode_open.svg"
-          }
+          "collapsed": "./icons/_fd_vscode.svg",
+          "expanded": "./icons/_fd_vscode_open.svg"
         },
         ".idea": {
-          "collapsed": {
-            "path": "./icons/_fd_idea.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_idea_open.svg"
-          }
+          "collapsed": "./icons/_fd_idea.svg",
+          "expanded": "./icons/_fd_idea_open.svg"
         },
         "docker": {
-          "collapsed": {
-            "path": "./icons/_fd_docker.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_docker_open.svg"
-          }
+          "collapsed": "./icons/_fd_docker.svg",
+          "expanded": "./icons/_fd_docker_open.svg"
         },
         ".docker": {
-          "collapsed": {
-            "path": "./icons/_fd_docker.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_docker_open.svg"
-          }
+          "collapsed": "./icons/_fd_docker.svg",
+          "expanded": "./icons/_fd_docker_open.svg"
         },
         "kubernetes": {
-          "collapsed": {
-            "path": "./icons/_fd_kubernetes.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_kubernetes_open.svg"
-          }
+          "collapsed": "./icons/_fd_kubernetes.svg",
+          "expanded": "./icons/_fd_kubernetes_open.svg"
         },
         "k8s": {
-          "collapsed": {
-            "path": "./icons/_fd_kubernetes.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_kubernetes_open.svg"
-          }
+          "collapsed": "./icons/_fd_kubernetes.svg",
+          "expanded": "./icons/_fd_kubernetes_open.svg"
         },
         ".kubernetes": {
-          "collapsed": {
-            "path": "./icons/_fd_kubernetes.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_kubernetes_open.svg"
-          }
+          "collapsed": "./icons/_fd_kubernetes.svg",
+          "expanded": "./icons/_fd_kubernetes_open.svg"
         },
         "aws": {
-          "collapsed": {
-            "path": "./icons/_fd_aws.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_aws_open.svg"
-          }
+          "collapsed": "./icons/_fd_aws.svg",
+          "expanded": "./icons/_fd_aws_open.svg"
         },
         ".aws": {
-          "collapsed": {
-            "path": "./icons/_fd_aws.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_aws_open.svg"
-          }
+          "collapsed": "./icons/_fd_aws.svg",
+          "expanded": "./icons/_fd_aws_open.svg"
         },
         "azure": {
-          "collapsed": {
-            "path": "./icons/_fd_azure.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_azure_open.svg"
-          }
+          "collapsed": "./icons/_fd_azure.svg",
+          "expanded": "./icons/_fd_azure_open.svg"
         },
         ".azure": {
-          "collapsed": {
-            "path": "./icons/_fd_azure.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_azure_open.svg"
-          }
+          "collapsed": "./icons/_fd_azure.svg",
+          "expanded": "./icons/_fd_azure_open.svg"
         },
         "gcp": {
-          "collapsed": {
-            "path": "./icons/_fd_gcp.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_gcp_open.svg"
-          }
+          "collapsed": "./icons/_fd_gcp.svg",
+          "expanded": "./icons/_fd_gcp_open.svg"
         },
         ".gcp": {
-          "collapsed": {
-            "path": "./icons/_fd_gcp.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_gcp_open.svg"
-          }
+          "collapsed": "./icons/_fd_gcp.svg",
+          "expanded": "./icons/_fd_gcp_open.svg"
         },
         ".circleci": {
-          "collapsed": {
-            "path": "./icons/_fd_circleci.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_circleci_open.svg"
-          }
+          "collapsed": "./icons/_fd_circleci.svg",
+          "expanded": "./icons/_fd_circleci_open.svg"
         },
         ".travis": {
-          "collapsed": {
-            "path": "./icons/_fd_travis.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_travis_open.svg"
-          }
+          "collapsed": "./icons/_fd_travis.svg",
+          "expanded": "./icons/_fd_travis_open.svg"
         },
         "android": {
-          "collapsed": {
-            "path": "./icons/_fd_android.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_android_open.svg"
-          }
+          "collapsed": "./icons/_fd_android.svg",
+          "expanded": "./icons/_fd_android_open.svg"
         },
         "ios": {
-          "collapsed": {
-            "path": "./icons/_fd_ios.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_ios_open.svg"
-          }
+          "collapsed": "./icons/_fd_ios.svg",
+          "expanded": "./icons/_fd_ios_open.svg"
         },
         "macos": {
-          "collapsed": {
-            "path": "./icons/_fd_macos.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_macos_open.svg"
-          }
+          "collapsed": "./icons/_fd_macos.svg",
+          "expanded": "./icons/_fd_macos_open.svg"
         },
         "darwin": {
-          "collapsed": {
-            "path": "./icons/_fd_macos.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_macos_open.svg"
-          }
+          "collapsed": "./icons/_fd_macos.svg",
+          "expanded": "./icons/_fd_macos_open.svg"
         },
         "linux": {
-          "collapsed": {
-            "path": "./icons/_fd_linux.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_linux_open.svg"
-          }
+          "collapsed": "./icons/_fd_linux.svg",
+          "expanded": "./icons/_fd_linux_open.svg"
         },
         "windows": {
-          "collapsed": {
-            "path": "./icons/_fd_windows.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_windows_open.svg"
-          }
+          "collapsed": "./icons/_fd_windows.svg",
+          "expanded": "./icons/_fd_windows_open.svg"
         },
         "win32": {
-          "collapsed": {
-            "path": "./icons/_fd_windows.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_windows_open.svg"
-          }
+          "collapsed": "./icons/_fd_windows.svg",
+          "expanded": "./icons/_fd_windows_open.svg"
         },
         "temp": {
-          "collapsed": {
-            "path": "./icons/_fd_temp.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_temp_open.svg"
-          }
+          "collapsed": "./icons/_fd_temp.svg",
+          "expanded": "./icons/_fd_temp_open.svg"
         },
         "tmp": {
-          "collapsed": {
-            "path": "./icons/_fd_temp.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_temp_open.svg"
-          }
+          "collapsed": "./icons/_fd_temp.svg",
+          "expanded": "./icons/_fd_temp_open.svg"
         },
         ".temp": {
-          "collapsed": {
-            "path": "./icons/_fd_temp.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_temp_open.svg"
-          }
+          "collapsed": "./icons/_fd_temp.svg",
+          "expanded": "./icons/_fd_temp_open.svg"
         },
         ".tmp": {
-          "collapsed": {
-            "path": "./icons/_fd_temp.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_temp_open.svg"
-          }
+          "collapsed": "./icons/_fd_temp.svg",
+          "expanded": "./icons/_fd_temp_open.svg"
         },
         "cache": {
-          "collapsed": {
-            "path": "./icons/_fd_cache.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_cache_open.svg"
-          }
+          "collapsed": "./icons/_fd_cache.svg",
+          "expanded": "./icons/_fd_cache_open.svg"
         },
         ".cache": {
-          "collapsed": {
-            "path": "./icons/_fd_cache.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_cache_open.svg"
-          }
+          "collapsed": "./icons/_fd_cache.svg",
+          "expanded": "./icons/_fd_cache_open.svg"
         },
         "logs": {
-          "collapsed": {
-            "path": "./icons/_fd_log.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_log_open.svg"
-          }
+          "collapsed": "./icons/_fd_log.svg",
+          "expanded": "./icons/_fd_log_open.svg"
         },
         "log": {
-          "collapsed": {
-            "path": "./icons/_fd_log.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_log_open.svg"
-          }
+          "collapsed": "./icons/_fd_log.svg",
+          "expanded": "./icons/_fd_log_open.svg"
         },
         "private": {
-          "collapsed": {
-            "path": "./icons/_fd_private.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_private_open.svg"
-          }
+          "collapsed": "./icons/_fd_private.svg",
+          "expanded": "./icons/_fd_private_open.svg"
         },
         ".private": {
-          "collapsed": {
-            "path": "./icons/_fd_private.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_private_open.svg"
-          }
+          "collapsed": "./icons/_fd_private.svg",
+          "expanded": "./icons/_fd_private_open.svg"
         },
         "secrets": {
-          "collapsed": {
-            "path": "./icons/_fd_private.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_private_open.svg"
-          }
+          "collapsed": "./icons/_fd_private.svg",
+          "expanded": "./icons/_fd_private_open.svg"
         },
         "client": {
-          "collapsed": {
-            "path": "./icons/_fd_client.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_client_open.svg"
-          }
+          "collapsed": "./icons/_fd_client.svg",
+          "expanded": "./icons/_fd_client_open.svg"
         },
         "server": {
-          "collapsed": {
-            "path": "./icons/_fd_server.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_server_open.svg"
-          }
+          "collapsed": "./icons/_fd_server.svg",
+          "expanded": "./icons/_fd_server_open.svg"
         },
         "backend": {
-          "collapsed": {
-            "path": "./icons/_fd_server.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_server_open.svg"
-          }
+          "collapsed": "./icons/_fd_server.svg",
+          "expanded": "./icons/_fd_server_open.svg"
         },
         "frontend": {
-          "collapsed": {
-            "path": "./icons/_fd_client.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_client_open.svg"
-          }
+          "collapsed": "./icons/_fd_client.svg",
+          "expanded": "./icons/_fd_client_open.svg"
         },
         ".storybook": {
-          "collapsed": {
-            "path": "./icons/_fd_story.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_story_open.svg"
-          }
+          "collapsed": "./icons/_fd_story.svg",
+          "expanded": "./icons/_fd_story_open.svg"
         },
         "stories": {
-          "collapsed": {
-            "path": "./icons/_fd_story.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_story_open.svg"
-          }
+          "collapsed": "./icons/_fd_story.svg",
+          "expanded": "./icons/_fd_story_open.svg"
         },
         "__stories__": {
-          "collapsed": {
-            "path": "./icons/_fd_story.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_story_open.svg"
-          }
+          "collapsed": "./icons/_fd_story.svg",
+          "expanded": "./icons/_fd_story_open.svg"
         },
         "mocks": {
-          "collapsed": {
-            "path": "./icons/_fd_mock.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_mock_open.svg"
-          }
+          "collapsed": "./icons/_fd_mock.svg",
+          "expanded": "./icons/_fd_mock_open.svg"
         },
         "__mocks__": {
-          "collapsed": {
-            "path": "./icons/_fd_mock.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_mock_open.svg"
-          }
+          "collapsed": "./icons/_fd_mock.svg",
+          "expanded": "./icons/_fd_mock_open.svg"
         },
         "locales": {
-          "collapsed": {
-            "path": "./icons/_fd_locale.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_locale_open.svg"
-          }
+          "collapsed": "./icons/_fd_locale.svg",
+          "expanded": "./icons/_fd_locale_open.svg"
         },
         "locale": {
-          "collapsed": {
-            "path": "./icons/_fd_locale.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_locale_open.svg"
-          }
+          "collapsed": "./icons/_fd_locale.svg",
+          "expanded": "./icons/_fd_locale_open.svg"
         },
         "i18n": {
-          "collapsed": {
-            "path": "./icons/_fd_locale.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_locale_open.svg"
-          }
+          "collapsed": "./icons/_fd_locale.svg",
+          "expanded": "./icons/_fd_locale_open.svg"
         },
         "l10n": {
-          "collapsed": {
-            "path": "./icons/_fd_locale.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_locale_open.svg"
-          }
+          "collapsed": "./icons/_fd_locale.svg",
+          "expanded": "./icons/_fd_locale_open.svg"
         },
         "lang": {
-          "collapsed": {
-            "path": "./icons/_fd_locale.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_locale_open.svg"
-          }
+          "collapsed": "./icons/_fd_locale.svg",
+          "expanded": "./icons/_fd_locale_open.svg"
         },
         "languages": {
-          "collapsed": {
-            "path": "./icons/_fd_locale.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_locale_open.svg"
-          }
+          "collapsed": "./icons/_fd_locale.svg",
+          "expanded": "./icons/_fd_locale_open.svg"
         },
         "coverage": {
-          "collapsed": {
-            "path": "./icons/_fd_coverage.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_coverage_open.svg"
-          }
+          "collapsed": "./icons/_fd_coverage.svg",
+          "expanded": "./icons/_fd_coverage_open.svg"
         },
         ".nyc_output": {
-          "collapsed": {
-            "path": "./icons/_fd_coverage.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_coverage_open.svg"
-          }
+          "collapsed": "./icons/_fd_coverage.svg",
+          "expanded": "./icons/_fd_coverage_open.svg"
         },
         ".nuxt": {
-          "collapsed": {
-            "path": "./icons/_fd_nuxt.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_nuxt_open.svg"
-          }
+          "collapsed": "./icons/_fd_nuxt.svg",
+          "expanded": "./icons/_fd_nuxt_open.svg"
         },
         ".next": {
-          "collapsed": {
-            "path": "./icons/_fd_next.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_next_open.svg"
-          }
+          "collapsed": "./icons/_fd_next.svg",
+          "expanded": "./icons/_fd_next_open.svg"
         },
         ".expo": {
-          "collapsed": {
-            "path": "./icons/_fd_expo.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_expo_open.svg"
-          }
+          "collapsed": "./icons/_fd_expo.svg",
+          "expanded": "./icons/_fd_expo_open.svg"
         },
         ".svelte-kit": {
-          "collapsed": {
-            "path": "./icons/_fd_svelte.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_svelte_open.svg"
-          }
+          "collapsed": "./icons/_fd_svelte.svg",
+          "expanded": "./icons/_fd_svelte_open.svg"
         },
         "graphql": {
-          "collapsed": {
-            "path": "./icons/_fd_graphql.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_graphql_open.svg"
-          }
+          "collapsed": "./icons/_fd_graphql.svg",
+          "expanded": "./icons/_fd_graphql_open.svg"
         },
         "gradle": {
-          "collapsed": {
-            "path": "./icons/_fd_gradle.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_gradle_open.svg"
-          }
+          "collapsed": "./icons/_fd_gradle.svg",
+          "expanded": "./icons/_fd_gradle_open.svg"
         },
         ".gradle": {
-          "collapsed": {
-            "path": "./icons/_fd_gradle.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_gradle_open.svg"
-          }
+          "collapsed": "./icons/_fd_gradle.svg",
+          "expanded": "./icons/_fd_gradle_open.svg"
         },
         ".mvn": {
-          "collapsed": {
-            "path": "./icons/_fd_maven.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_maven_open.svg"
-          }
+          "collapsed": "./icons/_fd_maven.svg",
+          "expanded": "./icons/_fd_maven_open.svg"
         },
         "bin": {
-          "collapsed": {
-            "path": "./icons/_fd_binary.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_binary_open.svg"
-          }
+          "collapsed": "./icons/_fd_binary.svg",
+          "expanded": "./icons/_fd_binary_open.svg"
         },
         ".bin": {
-          "collapsed": {
-            "path": "./icons/_fd_binary.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_binary_open.svg"
-          }
+          "collapsed": "./icons/_fd_binary.svg",
+          "expanded": "./icons/_fd_binary_open.svg"
         },
         "include": {
-          "collapsed": {
-            "path": "./icons/_fd_include.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_include_open.svg"
-          }
+          "collapsed": "./icons/_fd_include.svg",
+          "expanded": "./icons/_fd_include_open.svg"
         },
         "includes": {
-          "collapsed": {
-            "path": "./icons/_fd_include.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_include_open.svg"
-          }
+          "collapsed": "./icons/_fd_include.svg",
+          "expanded": "./icons/_fd_include_open.svg"
         }
       },
       "chevron_icons": {
-        "collapsed": {
-          "path": "./icons/chevron_right.svg"
-        },
-        "expanded": {
-          "path": "./icons/chevron_down.svg"
-        }
+        "collapsed": "./icons/chevron_right.svg",
+        "expanded": "./icons/chevron_down.svg"
       },
       "file_stems": {
         "webpack.js": "webpack",
@@ -2915,1478 +2179,742 @@
       "name": "Nube Icons Light",
       "appearance": "light",
       "directory_icons": {
-        "collapsed": {
-          "path": "./icons/folder_light.svg"
-        },
-        "expanded": {
-          "path": "./icons/folder_light_open.svg"
-        }
+        "collapsed": "./icons/folder_light.svg",
+        "expanded": "./icons/folder_light_open.svg"
       },
       "named_directory_icons": {
         "src": {
-          "collapsed": {
-            "path": "./icons/_fd_src.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_src_open.svg"
-          }
+          "collapsed": "./icons/_fd_src.svg",
+          "expanded": "./icons/_fd_src_open.svg"
         },
         "source": {
-          "collapsed": {
-            "path": "./icons/_fd_src.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_src_open.svg"
-          }
+          "collapsed": "./icons/_fd_src.svg",
+          "expanded": "./icons/_fd_src_open.svg"
         },
         "sources": {
-          "collapsed": {
-            "path": "./icons/_fd_src.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_src_open.svg"
-          }
+          "collapsed": "./icons/_fd_src.svg",
+          "expanded": "./icons/_fd_src_open.svg"
         },
         "dist": {
-          "collapsed": {
-            "path": "./icons/_fd_dist.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_dist_open.svg"
-          }
+          "collapsed": "./icons/_fd_dist.svg",
+          "expanded": "./icons/_fd_dist_open.svg"
         },
         "build": {
-          "collapsed": {
-            "path": "./icons/_fd_dist.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_dist_open.svg"
-          }
+          "collapsed": "./icons/_fd_dist.svg",
+          "expanded": "./icons/_fd_dist_open.svg"
         },
         "out": {
-          "collapsed": {
-            "path": "./icons/_fd_dist.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_dist_open.svg"
-          }
+          "collapsed": "./icons/_fd_dist.svg",
+          "expanded": "./icons/_fd_dist_open.svg"
         },
         "output": {
-          "collapsed": {
-            "path": "./icons/_fd_dist.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_dist_open.svg"
-          }
+          "collapsed": "./icons/_fd_dist.svg",
+          "expanded": "./icons/_fd_dist_open.svg"
         },
         "target": {
-          "collapsed": {
-            "path": "./icons/_fd_dist.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_dist_open.svg"
-          }
+          "collapsed": "./icons/_fd_dist.svg",
+          "expanded": "./icons/_fd_dist_open.svg"
         },
         "release": {
-          "collapsed": {
-            "path": "./icons/_fd_dist.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_dist_open.svg"
-          }
+          "collapsed": "./icons/_fd_dist.svg",
+          "expanded": "./icons/_fd_dist_open.svg"
         },
         "node_modules": {
-          "collapsed": {
-            "path": "./icons/_fd_node.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_node_open.svg"
-          }
+          "collapsed": "./icons/_fd_node.svg",
+          "expanded": "./icons/_fd_node_open.svg"
         },
         "vendor": {
-          "collapsed": {
-            "path": "./icons/_fd_vendor.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_vendor_open.svg"
-          }
+          "collapsed": "./icons/_fd_vendor.svg",
+          "expanded": "./icons/_fd_vendor_open.svg"
         },
         "config": {
-          "collapsed": {
-            "path": "./icons/_fd_config.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_config_open.svg"
-          }
+          "collapsed": "./icons/_fd_config.svg",
+          "expanded": "./icons/_fd_config_open.svg"
         },
         "configs": {
-          "collapsed": {
-            "path": "./icons/_fd_config.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_config_open.svg"
-          }
+          "collapsed": "./icons/_fd_config.svg",
+          "expanded": "./icons/_fd_config_open.svg"
         },
         ".config": {
-          "collapsed": {
-            "path": "./icons/_fd_config.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_config_open.svg"
-          }
+          "collapsed": "./icons/_fd_config.svg",
+          "expanded": "./icons/_fd_config_open.svg"
         },
         "settings": {
-          "collapsed": {
-            "path": "./icons/_fd_config.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_config_open.svg"
-          }
+          "collapsed": "./icons/_fd_config.svg",
+          "expanded": "./icons/_fd_config_open.svg"
         },
         "configuration": {
-          "collapsed": {
-            "path": "./icons/_fd_config.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_config_open.svg"
-          }
+          "collapsed": "./icons/_fd_config.svg",
+          "expanded": "./icons/_fd_config_open.svg"
         },
         "test": {
-          "collapsed": {
-            "path": "./icons/_fd_test.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_test_open.svg"
-          }
+          "collapsed": "./icons/_fd_test.svg",
+          "expanded": "./icons/_fd_test_open.svg"
         },
         "tests": {
-          "collapsed": {
-            "path": "./icons/_fd_test.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_test_open.svg"
-          }
+          "collapsed": "./icons/_fd_test.svg",
+          "expanded": "./icons/_fd_test_open.svg"
         },
         "__tests__": {
-          "collapsed": {
-            "path": "./icons/_fd_test.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_test_open.svg"
-          }
+          "collapsed": "./icons/_fd_test.svg",
+          "expanded": "./icons/_fd_test_open.svg"
         },
         "__test__": {
-          "collapsed": {
-            "path": "./icons/_fd_test.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_test_open.svg"
-          }
+          "collapsed": "./icons/_fd_test.svg",
+          "expanded": "./icons/_fd_test_open.svg"
         },
         "spec": {
-          "collapsed": {
-            "path": "./icons/_fd_test.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_test_open.svg"
-          }
+          "collapsed": "./icons/_fd_test.svg",
+          "expanded": "./icons/_fd_test_open.svg"
         },
         "specs": {
-          "collapsed": {
-            "path": "./icons/_fd_test.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_test_open.svg"
-          }
+          "collapsed": "./icons/_fd_test.svg",
+          "expanded": "./icons/_fd_test_open.svg"
         },
         "e2e": {
-          "collapsed": {
-            "path": "./icons/_fd_e2e.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_e2e_open.svg"
-          }
+          "collapsed": "./icons/_fd_e2e.svg",
+          "expanded": "./icons/_fd_e2e_open.svg"
         },
         "cypress": {
-          "collapsed": {
-            "path": "./icons/_fd_cypress.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_cypress_open.svg"
-          }
+          "collapsed": "./icons/_fd_cypress.svg",
+          "expanded": "./icons/_fd_cypress_open.svg"
         },
         "components": {
-          "collapsed": {
-            "path": "./icons/_fd_component.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_component_open.svg"
-          }
+          "collapsed": "./icons/_fd_component.svg",
+          "expanded": "./icons/_fd_component_open.svg"
         },
         "component": {
-          "collapsed": {
-            "path": "./icons/_fd_component.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_component_open.svg"
-          }
+          "collapsed": "./icons/_fd_component.svg",
+          "expanded": "./icons/_fd_component_open.svg"
         },
         "widgets": {
-          "collapsed": {
-            "path": "./icons/_fd_component.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_component_open.svg"
-          }
+          "collapsed": "./icons/_fd_component.svg",
+          "expanded": "./icons/_fd_component_open.svg"
         },
         "views": {
-          "collapsed": {
-            "path": "./icons/_fd_view.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_view_open.svg"
-          }
+          "collapsed": "./icons/_fd_view.svg",
+          "expanded": "./icons/_fd_view_open.svg"
         },
         "view": {
-          "collapsed": {
-            "path": "./icons/_fd_view.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_view_open.svg"
-          }
+          "collapsed": "./icons/_fd_view.svg",
+          "expanded": "./icons/_fd_view_open.svg"
         },
         "pages": {
-          "collapsed": {
-            "path": "./icons/_fd_view.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_view_open.svg"
-          }
+          "collapsed": "./icons/_fd_view.svg",
+          "expanded": "./icons/_fd_view_open.svg"
         },
         "page": {
-          "collapsed": {
-            "path": "./icons/_fd_view.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_view_open.svg"
-          }
+          "collapsed": "./icons/_fd_view.svg",
+          "expanded": "./icons/_fd_view_open.svg"
         },
         "layouts": {
-          "collapsed": {
-            "path": "./icons/_fd_view.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_view_open.svg"
-          }
+          "collapsed": "./icons/_fd_view.svg",
+          "expanded": "./icons/_fd_view_open.svg"
         },
         "layout": {
-          "collapsed": {
-            "path": "./icons/_fd_view.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_view_open.svg"
-          }
+          "collapsed": "./icons/_fd_view.svg",
+          "expanded": "./icons/_fd_view_open.svg"
         },
         "templates": {
-          "collapsed": {
-            "path": "./icons/_fd_template.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_template_open.svg"
-          }
+          "collapsed": "./icons/_fd_template.svg",
+          "expanded": "./icons/_fd_template_open.svg"
         },
         "template": {
-          "collapsed": {
-            "path": "./icons/_fd_template.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_template_open.svg"
-          }
+          "collapsed": "./icons/_fd_template.svg",
+          "expanded": "./icons/_fd_template_open.svg"
         },
         "assets": {
-          "collapsed": {
-            "path": "./icons/_fd_asset.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_asset_open.svg"
-          }
+          "collapsed": "./icons/_fd_asset.svg",
+          "expanded": "./icons/_fd_asset_open.svg"
         },
         "static": {
-          "collapsed": {
-            "path": "./icons/_fd_asset.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_asset_open.svg"
-          }
+          "collapsed": "./icons/_fd_asset.svg",
+          "expanded": "./icons/_fd_asset_open.svg"
         },
         "public": {
-          "collapsed": {
-            "path": "./icons/_fd_public.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_public_open.svg"
-          }
+          "collapsed": "./icons/_fd_public.svg",
+          "expanded": "./icons/_fd_public_open.svg"
         },
         "resources": {
-          "collapsed": {
-            "path": "./icons/_fd_asset.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_asset_open.svg"
-          }
+          "collapsed": "./icons/_fd_asset.svg",
+          "expanded": "./icons/_fd_asset_open.svg"
         },
         "images": {
-          "collapsed": {
-            "path": "./icons/_fd_images.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_images_open.svg"
-          }
+          "collapsed": "./icons/_fd_images.svg",
+          "expanded": "./icons/_fd_images_open.svg"
         },
         "image": {
-          "collapsed": {
-            "path": "./icons/_fd_images.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_images_open.svg"
-          }
+          "collapsed": "./icons/_fd_images.svg",
+          "expanded": "./icons/_fd_images_open.svg"
         },
         "img": {
-          "collapsed": {
-            "path": "./icons/_fd_images.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_images_open.svg"
-          }
+          "collapsed": "./icons/_fd_images.svg",
+          "expanded": "./icons/_fd_images_open.svg"
         },
         "icons": {
-          "collapsed": {
-            "path": "./icons/_fd_images.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_images_open.svg"
-          }
+          "collapsed": "./icons/_fd_images.svg",
+          "expanded": "./icons/_fd_images_open.svg"
         },
         "icon": {
-          "collapsed": {
-            "path": "./icons/_fd_images.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_images_open.svg"
-          }
+          "collapsed": "./icons/_fd_images.svg",
+          "expanded": "./icons/_fd_images_open.svg"
         },
         "svg": {
-          "collapsed": {
-            "path": "./icons/_fd_images.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_images_open.svg"
-          }
+          "collapsed": "./icons/_fd_images.svg",
+          "expanded": "./icons/_fd_images_open.svg"
         },
         "screenshots": {
-          "collapsed": {
-            "path": "./icons/_fd_images.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_images_open.svg"
-          }
+          "collapsed": "./icons/_fd_images.svg",
+          "expanded": "./icons/_fd_images_open.svg"
         },
         "fonts": {
-          "collapsed": {
-            "path": "./icons/_fd_fonts.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_fonts_open.svg"
-          }
+          "collapsed": "./icons/_fd_fonts.svg",
+          "expanded": "./icons/_fd_fonts_open.svg"
         },
         "font": {
-          "collapsed": {
-            "path": "./icons/_fd_fonts.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_fonts_open.svg"
-          }
+          "collapsed": "./icons/_fd_fonts.svg",
+          "expanded": "./icons/_fd_fonts_open.svg"
         },
         "audio": {
-          "collapsed": {
-            "path": "./icons/_fd_audio.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_audio_open.svg"
-          }
+          "collapsed": "./icons/_fd_audio.svg",
+          "expanded": "./icons/_fd_audio_open.svg"
         },
         "audios": {
-          "collapsed": {
-            "path": "./icons/_fd_audio.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_audio_open.svg"
-          }
+          "collapsed": "./icons/_fd_audio.svg",
+          "expanded": "./icons/_fd_audio_open.svg"
         },
         "sounds": {
-          "collapsed": {
-            "path": "./icons/_fd_audio.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_audio_open.svg"
-          }
+          "collapsed": "./icons/_fd_audio.svg",
+          "expanded": "./icons/_fd_audio_open.svg"
         },
         "video": {
-          "collapsed": {
-            "path": "./icons/_fd_video.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_video_open.svg"
-          }
+          "collapsed": "./icons/_fd_video.svg",
+          "expanded": "./icons/_fd_video_open.svg"
         },
         "videos": {
-          "collapsed": {
-            "path": "./icons/_fd_video.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_video_open.svg"
-          }
+          "collapsed": "./icons/_fd_video.svg",
+          "expanded": "./icons/_fd_video_open.svg"
         },
         "media": {
-          "collapsed": {
-            "path": "./icons/_fd_media.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_media_open.svg"
-          }
+          "collapsed": "./icons/_fd_media.svg",
+          "expanded": "./icons/_fd_media_open.svg"
         },
         "styles": {
-          "collapsed": {
-            "path": "./icons/_fd_style.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_style_open.svg"
-          }
+          "collapsed": "./icons/_fd_style.svg",
+          "expanded": "./icons/_fd_style_open.svg"
         },
         "style": {
-          "collapsed": {
-            "path": "./icons/_fd_style.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_style_open.svg"
-          }
+          "collapsed": "./icons/_fd_style.svg",
+          "expanded": "./icons/_fd_style_open.svg"
         },
         "css": {
-          "collapsed": {
-            "path": "./icons/_fd_css.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_css_open.svg"
-          }
+          "collapsed": "./icons/_fd_css.svg",
+          "expanded": "./icons/_fd_css_open.svg"
         },
         "scss": {
-          "collapsed": {
-            "path": "./icons/_fd_sass.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_sass_open.svg"
-          }
+          "collapsed": "./icons/_fd_sass.svg",
+          "expanded": "./icons/_fd_sass_open.svg"
         },
         "sass": {
-          "collapsed": {
-            "path": "./icons/_fd_sass.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_sass_open.svg"
-          }
+          "collapsed": "./icons/_fd_sass.svg",
+          "expanded": "./icons/_fd_sass_open.svg"
         },
         "less": {
-          "collapsed": {
-            "path": "./icons/_fd_less.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_less_open.svg"
-          }
+          "collapsed": "./icons/_fd_less.svg",
+          "expanded": "./icons/_fd_less_open.svg"
         },
         "scripts": {
-          "collapsed": {
-            "path": "./icons/_fd_script.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_script_open.svg"
-          }
+          "collapsed": "./icons/_fd_script.svg",
+          "expanded": "./icons/_fd_script_open.svg"
         },
         "script": {
-          "collapsed": {
-            "path": "./icons/_fd_script.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_script_open.svg"
-          }
+          "collapsed": "./icons/_fd_script.svg",
+          "expanded": "./icons/_fd_script_open.svg"
         },
         "js": {
-          "collapsed": {
-            "path": "./icons/_fd_js.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_js_open.svg"
-          }
+          "collapsed": "./icons/_fd_js.svg",
+          "expanded": "./icons/_fd_js_open.svg"
         },
         "docs": {
-          "collapsed": {
-            "path": "./icons/_fd_docs.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_docs_open.svg"
-          }
+          "collapsed": "./icons/_fd_docs.svg",
+          "expanded": "./icons/_fd_docs_open.svg"
         },
         "doc": {
-          "collapsed": {
-            "path": "./icons/_fd_docs.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_docs_open.svg"
-          }
+          "collapsed": "./icons/_fd_docs.svg",
+          "expanded": "./icons/_fd_docs_open.svg"
         },
         "documentation": {
-          "collapsed": {
-            "path": "./icons/_fd_docs.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_docs_open.svg"
-          }
+          "collapsed": "./icons/_fd_docs.svg",
+          "expanded": "./icons/_fd_docs_open.svg"
         },
         "lib": {
-          "collapsed": {
-            "path": "./icons/_fd_library.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_library_open.svg"
-          }
+          "collapsed": "./icons/_fd_library.svg",
+          "expanded": "./icons/_fd_library_open.svg"
         },
         "libs": {
-          "collapsed": {
-            "path": "./icons/_fd_library.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_library_open.svg"
-          }
+          "collapsed": "./icons/_fd_library.svg",
+          "expanded": "./icons/_fd_library_open.svg"
         },
         "library": {
-          "collapsed": {
-            "path": "./icons/_fd_library.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_library_open.svg"
-          }
+          "collapsed": "./icons/_fd_library.svg",
+          "expanded": "./icons/_fd_library_open.svg"
         },
         "libraries": {
-          "collapsed": {
-            "path": "./icons/_fd_library.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_library_open.svg"
-          }
+          "collapsed": "./icons/_fd_library.svg",
+          "expanded": "./icons/_fd_library_open.svg"
         },
         "helpers": {
-          "collapsed": {
-            "path": "./icons/_fd_helper.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_helper_open.svg"
-          }
+          "collapsed": "./icons/_fd_helper.svg",
+          "expanded": "./icons/_fd_helper_open.svg"
         },
         "helper": {
-          "collapsed": {
-            "path": "./icons/_fd_helper.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_helper_open.svg"
-          }
+          "collapsed": "./icons/_fd_helper.svg",
+          "expanded": "./icons/_fd_helper_open.svg"
         },
         "utils": {
-          "collapsed": {
-            "path": "./icons/_fd_tools.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_tools_open.svg"
-          }
+          "collapsed": "./icons/_fd_tools.svg",
+          "expanded": "./icons/_fd_tools_open.svg"
         },
         "util": {
-          "collapsed": {
-            "path": "./icons/_fd_tools.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_tools_open.svg"
-          }
+          "collapsed": "./icons/_fd_tools.svg",
+          "expanded": "./icons/_fd_tools_open.svg"
         },
         "tools": {
-          "collapsed": {
-            "path": "./icons/_fd_tools.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_tools_open.svg"
-          }
+          "collapsed": "./icons/_fd_tools.svg",
+          "expanded": "./icons/_fd_tools_open.svg"
         },
         "common": {
-          "collapsed": {
-            "path": "./icons/_fd_common.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_common_open.svg"
-          }
+          "collapsed": "./icons/_fd_common.svg",
+          "expanded": "./icons/_fd_common_open.svg"
         },
         "shared": {
-          "collapsed": {
-            "path": "./icons/_fd_shared.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_shared_open.svg"
-          }
+          "collapsed": "./icons/_fd_shared.svg",
+          "expanded": "./icons/_fd_shared_open.svg"
         },
         "data": {
-          "collapsed": {
-            "path": "./icons/_fd_db.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_db_open.svg"
-          }
+          "collapsed": "./icons/_fd_db.svg",
+          "expanded": "./icons/_fd_db_open.svg"
         },
         "database": {
-          "collapsed": {
-            "path": "./icons/_fd_db.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_db_open.svg"
-          }
+          "collapsed": "./icons/_fd_db.svg",
+          "expanded": "./icons/_fd_db_open.svg"
         },
         "db": {
-          "collapsed": {
-            "path": "./icons/_fd_db.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_db_open.svg"
-          }
+          "collapsed": "./icons/_fd_db.svg",
+          "expanded": "./icons/_fd_db_open.svg"
         },
         "models": {
-          "collapsed": {
-            "path": "./icons/_fd_model.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_model_open.svg"
-          }
+          "collapsed": "./icons/_fd_model.svg",
+          "expanded": "./icons/_fd_model_open.svg"
         },
         "model": {
-          "collapsed": {
-            "path": "./icons/_fd_model.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_model_open.svg"
-          }
+          "collapsed": "./icons/_fd_model.svg",
+          "expanded": "./icons/_fd_model_open.svg"
         },
         "entities": {
-          "collapsed": {
-            "path": "./icons/_fd_model.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_model_open.svg"
-          }
+          "collapsed": "./icons/_fd_model.svg",
+          "expanded": "./icons/_fd_model_open.svg"
         },
         "entity": {
-          "collapsed": {
-            "path": "./icons/_fd_model.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_model_open.svg"
-          }
+          "collapsed": "./icons/_fd_model.svg",
+          "expanded": "./icons/_fd_model_open.svg"
         },
         "controllers": {
-          "collapsed": {
-            "path": "./icons/_fd_controller.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_controller_open.svg"
-          }
+          "collapsed": "./icons/_fd_controller.svg",
+          "expanded": "./icons/_fd_controller_open.svg"
         },
         "controller": {
-          "collapsed": {
-            "path": "./icons/_fd_controller.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_controller_open.svg"
-          }
+          "collapsed": "./icons/_fd_controller.svg",
+          "expanded": "./icons/_fd_controller_open.svg"
         },
         "handlers": {
-          "collapsed": {
-            "path": "./icons/_fd_controller.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_controller_open.svg"
-          }
+          "collapsed": "./icons/_fd_controller.svg",
+          "expanded": "./icons/_fd_controller_open.svg"
         },
         "handler": {
-          "collapsed": {
-            "path": "./icons/_fd_controller.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_controller_open.svg"
-          }
+          "collapsed": "./icons/_fd_controller.svg",
+          "expanded": "./icons/_fd_controller_open.svg"
         },
         "services": {
-          "collapsed": {
-            "path": "./icons/_fd_services.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_services_open.svg"
-          }
+          "collapsed": "./icons/_fd_services.svg",
+          "expanded": "./icons/_fd_services_open.svg"
         },
         "service": {
-          "collapsed": {
-            "path": "./icons/_fd_services.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_services_open.svg"
-          }
+          "collapsed": "./icons/_fd_services.svg",
+          "expanded": "./icons/_fd_services_open.svg"
         },
         "routes": {
-          "collapsed": {
-            "path": "./icons/_fd_route.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_route_open.svg"
-          }
+          "collapsed": "./icons/_fd_route.svg",
+          "expanded": "./icons/_fd_route_open.svg"
         },
         "route": {
-          "collapsed": {
-            "path": "./icons/_fd_route.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_route_open.svg"
-          }
+          "collapsed": "./icons/_fd_route.svg",
+          "expanded": "./icons/_fd_route_open.svg"
         },
         "routers": {
-          "collapsed": {
-            "path": "./icons/_fd_route.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_route_open.svg"
-          }
+          "collapsed": "./icons/_fd_route.svg",
+          "expanded": "./icons/_fd_route_open.svg"
         },
         "router": {
-          "collapsed": {
-            "path": "./icons/_fd_route.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_route_open.svg"
-          }
+          "collapsed": "./icons/_fd_route.svg",
+          "expanded": "./icons/_fd_route_open.svg"
         },
         "middleware": {
-          "collapsed": {
-            "path": "./icons/_fd_middleware.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_middleware_open.svg"
-          }
+          "collapsed": "./icons/_fd_middleware.svg",
+          "expanded": "./icons/_fd_middleware_open.svg"
         },
         "middlewares": {
-          "collapsed": {
-            "path": "./icons/_fd_middleware.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_middleware_open.svg"
-          }
+          "collapsed": "./icons/_fd_middleware.svg",
+          "expanded": "./icons/_fd_middleware_open.svg"
         },
         "api": {
-          "collapsed": {
-            "path": "./icons/_fd_api.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_api_open.svg"
-          }
+          "collapsed": "./icons/_fd_api.svg",
+          "expanded": "./icons/_fd_api_open.svg"
         },
         ".api": {
-          "collapsed": {
-            "path": "./icons/_fd_api.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_api_open.svg"
-          }
+          "collapsed": "./icons/_fd_api.svg",
+          "expanded": "./icons/_fd_api_open.svg"
         },
         "apis": {
-          "collapsed": {
-            "path": "./icons/_fd_api.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_api_open.svg"
-          }
+          "collapsed": "./icons/_fd_api.svg",
+          "expanded": "./icons/_fd_api_open.svg"
         },
         "store": {
-          "collapsed": {
-            "path": "./icons/_fd_store.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_store_open.svg"
-          }
+          "collapsed": "./icons/_fd_store.svg",
+          "expanded": "./icons/_fd_store_open.svg"
         },
         "stores": {
-          "collapsed": {
-            "path": "./icons/_fd_store.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_store_open.svg"
-          }
+          "collapsed": "./icons/_fd_store.svg",
+          "expanded": "./icons/_fd_store_open.svg"
         },
         "redux": {
-          "collapsed": {
-            "path": "./icons/_fd_redux.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_redux_open.svg"
-          }
+          "collapsed": "./icons/_fd_redux.svg",
+          "expanded": "./icons/_fd_redux_open.svg"
         },
         "state": {
-          "collapsed": {
-            "path": "./icons/_fd_state.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_state_open.svg"
-          }
+          "collapsed": "./icons/_fd_state.svg",
+          "expanded": "./icons/_fd_state_open.svg"
         },
         "hooks": {
-          "collapsed": {
-            "path": "./icons/_fd_hooks.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_hooks_open.svg"
-          }
+          "collapsed": "./icons/_fd_hooks.svg",
+          "expanded": "./icons/_fd_hooks_open.svg"
         },
         "hook": {
-          "collapsed": {
-            "path": "./icons/_fd_hooks.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_hooks_open.svg"
-          }
+          "collapsed": "./icons/_fd_hooks.svg",
+          "expanded": "./icons/_fd_hooks_open.svg"
         },
         "types": {
-          "collapsed": {
-            "path": "./icons/_fd_typings.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_typings_open.svg"
-          }
+          "collapsed": "./icons/_fd_typings.svg",
+          "expanded": "./icons/_fd_typings_open.svg"
         },
         "typings": {
-          "collapsed": {
-            "path": "./icons/_fd_typings.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_typings_open.svg"
-          }
+          "collapsed": "./icons/_fd_typings.svg",
+          "expanded": "./icons/_fd_typings_open.svg"
         },
         "@types": {
-          "collapsed": {
-            "path": "./icons/_fd_typings.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_typings_open.svg"
-          }
+          "collapsed": "./icons/_fd_typings.svg",
+          "expanded": "./icons/_fd_typings_open.svg"
         },
         "interfaces": {
-          "collapsed": {
-            "path": "./icons/_fd_interfaces.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_interfaces_open.svg"
-          }
+          "collapsed": "./icons/_fd_interfaces.svg",
+          "expanded": "./icons/_fd_interfaces_open.svg"
         },
         "modules": {
-          "collapsed": {
-            "path": "./icons/_fd_module.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_module_open.svg"
-          }
+          "collapsed": "./icons/_fd_module.svg",
+          "expanded": "./icons/_fd_module_open.svg"
         },
         "module": {
-          "collapsed": {
-            "path": "./icons/_fd_module.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_module_open.svg"
-          }
+          "collapsed": "./icons/_fd_module.svg",
+          "expanded": "./icons/_fd_module_open.svg"
         },
         "packages": {
-          "collapsed": {
-            "path": "./icons/_fd_package.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_package_open.svg"
-          }
+          "collapsed": "./icons/_fd_package.svg",
+          "expanded": "./icons/_fd_package_open.svg"
         },
         "package": {
-          "collapsed": {
-            "path": "./icons/_fd_package.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_package_open.svg"
-          }
+          "collapsed": "./icons/_fd_package.svg",
+          "expanded": "./icons/_fd_package_open.svg"
         },
         "plugins": {
-          "collapsed": {
-            "path": "./icons/_fd_plugin.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_plugin_open.svg"
-          }
+          "collapsed": "./icons/_fd_plugin.svg",
+          "expanded": "./icons/_fd_plugin_open.svg"
         },
         "plugin": {
-          "collapsed": {
-            "path": "./icons/_fd_plugin.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_plugin_open.svg"
-          }
+          "collapsed": "./icons/_fd_plugin.svg",
+          "expanded": "./icons/_fd_plugin_open.svg"
         },
         "extensions": {
-          "collapsed": {
-            "path": "./icons/_fd_plugin.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_plugin_open.svg"
-          }
+          "collapsed": "./icons/_fd_plugin.svg",
+          "expanded": "./icons/_fd_plugin_open.svg"
         },
         "extension": {
-          "collapsed": {
-            "path": "./icons/_fd_plugin.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_plugin_open.svg"
-          }
+          "collapsed": "./icons/_fd_plugin.svg",
+          "expanded": "./icons/_fd_plugin_open.svg"
         },
         ".git": {
-          "collapsed": {
-            "path": "./icons/_fd_git.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_git_open.svg"
-          }
+          "collapsed": "./icons/_fd_git.svg",
+          "expanded": "./icons/_fd_git_open.svg"
         },
         ".github": {
-          "collapsed": {
-            "path": "./icons/_fd_github.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_github_open.svg"
-          }
+          "collapsed": "./icons/_fd_github.svg",
+          "expanded": "./icons/_fd_github_open.svg"
         },
         ".gitlab": {
-          "collapsed": {
-            "path": "./icons/_fd_gitlab.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_gitlab_open.svg"
-          }
+          "collapsed": "./icons/_fd_gitlab.svg",
+          "expanded": "./icons/_fd_gitlab_open.svg"
         },
         ".vscode": {
-          "collapsed": {
-            "path": "./icons/_fd_vscode.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_vscode_open.svg"
-          }
+          "collapsed": "./icons/_fd_vscode.svg",
+          "expanded": "./icons/_fd_vscode_open.svg"
         },
         ".idea": {
-          "collapsed": {
-            "path": "./icons/_fd_idea.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_idea_open.svg"
-          }
+          "collapsed": "./icons/_fd_idea.svg",
+          "expanded": "./icons/_fd_idea_open.svg"
         },
         "docker": {
-          "collapsed": {
-            "path": "./icons/_fd_docker.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_docker_open.svg"
-          }
+          "collapsed": "./icons/_fd_docker.svg",
+          "expanded": "./icons/_fd_docker_open.svg"
         },
         ".docker": {
-          "collapsed": {
-            "path": "./icons/_fd_docker.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_docker_open.svg"
-          }
+          "collapsed": "./icons/_fd_docker.svg",
+          "expanded": "./icons/_fd_docker_open.svg"
         },
         "kubernetes": {
-          "collapsed": {
-            "path": "./icons/_fd_kubernetes.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_kubernetes_open.svg"
-          }
+          "collapsed": "./icons/_fd_kubernetes.svg",
+          "expanded": "./icons/_fd_kubernetes_open.svg"
         },
         "k8s": {
-          "collapsed": {
-            "path": "./icons/_fd_kubernetes.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_kubernetes_open.svg"
-          }
+          "collapsed": "./icons/_fd_kubernetes.svg",
+          "expanded": "./icons/_fd_kubernetes_open.svg"
         },
         ".kubernetes": {
-          "collapsed": {
-            "path": "./icons/_fd_kubernetes.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_kubernetes_open.svg"
-          }
+          "collapsed": "./icons/_fd_kubernetes.svg",
+          "expanded": "./icons/_fd_kubernetes_open.svg"
         },
         "aws": {
-          "collapsed": {
-            "path": "./icons/_fd_aws.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_aws_open.svg"
-          }
+          "collapsed": "./icons/_fd_aws.svg",
+          "expanded": "./icons/_fd_aws_open.svg"
         },
         ".aws": {
-          "collapsed": {
-            "path": "./icons/_fd_aws.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_aws_open.svg"
-          }
+          "collapsed": "./icons/_fd_aws.svg",
+          "expanded": "./icons/_fd_aws_open.svg"
         },
         "azure": {
-          "collapsed": {
-            "path": "./icons/_fd_azure.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_azure_open.svg"
-          }
+          "collapsed": "./icons/_fd_azure.svg",
+          "expanded": "./icons/_fd_azure_open.svg"
         },
         ".azure": {
-          "collapsed": {
-            "path": "./icons/_fd_azure.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_azure_open.svg"
-          }
+          "collapsed": "./icons/_fd_azure.svg",
+          "expanded": "./icons/_fd_azure_open.svg"
         },
         "gcp": {
-          "collapsed": {
-            "path": "./icons/_fd_gcp.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_gcp_open.svg"
-          }
+          "collapsed": "./icons/_fd_gcp.svg",
+          "expanded": "./icons/_fd_gcp_open.svg"
         },
         ".gcp": {
-          "collapsed": {
-            "path": "./icons/_fd_gcp.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_gcp_open.svg"
-          }
+          "collapsed": "./icons/_fd_gcp.svg",
+          "expanded": "./icons/_fd_gcp_open.svg"
         },
         ".circleci": {
-          "collapsed": {
-            "path": "./icons/_fd_circleci.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_circleci_open.svg"
-          }
+          "collapsed": "./icons/_fd_circleci.svg",
+          "expanded": "./icons/_fd_circleci_open.svg"
         },
         ".travis": {
-          "collapsed": {
-            "path": "./icons/_fd_travis.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_travis_open.svg"
-          }
+          "collapsed": "./icons/_fd_travis.svg",
+          "expanded": "./icons/_fd_travis_open.svg"
         },
         "android": {
-          "collapsed": {
-            "path": "./icons/_fd_android.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_android_open.svg"
-          }
+          "collapsed": "./icons/_fd_android.svg",
+          "expanded": "./icons/_fd_android_open.svg"
         },
         "ios": {
-          "collapsed": {
-            "path": "./icons/_fd_ios.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_ios_open.svg"
-          }
+          "collapsed": "./icons/_fd_ios.svg",
+          "expanded": "./icons/_fd_ios_open.svg"
         },
         "macos": {
-          "collapsed": {
-            "path": "./icons/_fd_macos.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_macos_open.svg"
-          }
+          "collapsed": "./icons/_fd_macos.svg",
+          "expanded": "./icons/_fd_macos_open.svg"
         },
         "darwin": {
-          "collapsed": {
-            "path": "./icons/_fd_macos.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_macos_open.svg"
-          }
+          "collapsed": "./icons/_fd_macos.svg",
+          "expanded": "./icons/_fd_macos_open.svg"
         },
         "linux": {
-          "collapsed": {
-            "path": "./icons/_fd_linux.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_linux_open.svg"
-          }
+          "collapsed": "./icons/_fd_linux.svg",
+          "expanded": "./icons/_fd_linux_open.svg"
         },
         "windows": {
-          "collapsed": {
-            "path": "./icons/_fd_windows.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_windows_open.svg"
-          }
+          "collapsed": "./icons/_fd_windows.svg",
+          "expanded": "./icons/_fd_windows_open.svg"
         },
         "win32": {
-          "collapsed": {
-            "path": "./icons/_fd_windows.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_windows_open.svg"
-          }
+          "collapsed": "./icons/_fd_windows.svg",
+          "expanded": "./icons/_fd_windows_open.svg"
         },
         "temp": {
-          "collapsed": {
-            "path": "./icons/_fd_temp.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_temp_open.svg"
-          }
+          "collapsed": "./icons/_fd_temp.svg",
+          "expanded": "./icons/_fd_temp_open.svg"
         },
         "tmp": {
-          "collapsed": {
-            "path": "./icons/_fd_temp.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_temp_open.svg"
-          }
+          "collapsed": "./icons/_fd_temp.svg",
+          "expanded": "./icons/_fd_temp_open.svg"
         },
         ".temp": {
-          "collapsed": {
-            "path": "./icons/_fd_temp.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_temp_open.svg"
-          }
+          "collapsed": "./icons/_fd_temp.svg",
+          "expanded": "./icons/_fd_temp_open.svg"
         },
         ".tmp": {
-          "collapsed": {
-            "path": "./icons/_fd_temp.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_temp_open.svg"
-          }
+          "collapsed": "./icons/_fd_temp.svg",
+          "expanded": "./icons/_fd_temp_open.svg"
         },
         "cache": {
-          "collapsed": {
-            "path": "./icons/_fd_cache.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_cache_open.svg"
-          }
+          "collapsed": "./icons/_fd_cache.svg",
+          "expanded": "./icons/_fd_cache_open.svg"
         },
         ".cache": {
-          "collapsed": {
-            "path": "./icons/_fd_cache.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_cache_open.svg"
-          }
+          "collapsed": "./icons/_fd_cache.svg",
+          "expanded": "./icons/_fd_cache_open.svg"
         },
         "logs": {
-          "collapsed": {
-            "path": "./icons/_fd_log.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_log_open.svg"
-          }
+          "collapsed": "./icons/_fd_log.svg",
+          "expanded": "./icons/_fd_log_open.svg"
         },
         "log": {
-          "collapsed": {
-            "path": "./icons/_fd_log.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_log_open.svg"
-          }
+          "collapsed": "./icons/_fd_log.svg",
+          "expanded": "./icons/_fd_log_open.svg"
         },
         "private": {
-          "collapsed": {
-            "path": "./icons/_fd_private.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_private_open.svg"
-          }
+          "collapsed": "./icons/_fd_private.svg",
+          "expanded": "./icons/_fd_private_open.svg"
         },
         ".private": {
-          "collapsed": {
-            "path": "./icons/_fd_private.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_private_open.svg"
-          }
+          "collapsed": "./icons/_fd_private.svg",
+          "expanded": "./icons/_fd_private_open.svg"
         },
         "secrets": {
-          "collapsed": {
-            "path": "./icons/_fd_private.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_private_open.svg"
-          }
+          "collapsed": "./icons/_fd_private.svg",
+          "expanded": "./icons/_fd_private_open.svg"
         },
         "client": {
-          "collapsed": {
-            "path": "./icons/_fd_client.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_client_open.svg"
-          }
+          "collapsed": "./icons/_fd_client.svg",
+          "expanded": "./icons/_fd_client_open.svg"
         },
         "server": {
-          "collapsed": {
-            "path": "./icons/_fd_server.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_server_open.svg"
-          }
+          "collapsed": "./icons/_fd_server.svg",
+          "expanded": "./icons/_fd_server_open.svg"
         },
         "backend": {
-          "collapsed": {
-            "path": "./icons/_fd_server.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_server_open.svg"
-          }
+          "collapsed": "./icons/_fd_server.svg",
+          "expanded": "./icons/_fd_server_open.svg"
         },
         "frontend": {
-          "collapsed": {
-            "path": "./icons/_fd_client.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_client_open.svg"
-          }
+          "collapsed": "./icons/_fd_client.svg",
+          "expanded": "./icons/_fd_client_open.svg"
         },
         ".storybook": {
-          "collapsed": {
-            "path": "./icons/_fd_story.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_story_open.svg"
-          }
+          "collapsed": "./icons/_fd_story.svg",
+          "expanded": "./icons/_fd_story_open.svg"
         },
         "stories": {
-          "collapsed": {
-            "path": "./icons/_fd_story.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_story_open.svg"
-          }
+          "collapsed": "./icons/_fd_story.svg",
+          "expanded": "./icons/_fd_story_open.svg"
         },
         "__stories__": {
-          "collapsed": {
-            "path": "./icons/_fd_story.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_story_open.svg"
-          }
+          "collapsed": "./icons/_fd_story.svg",
+          "expanded": "./icons/_fd_story_open.svg"
         },
         "mocks": {
-          "collapsed": {
-            "path": "./icons/_fd_mock.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_mock_open.svg"
-          }
+          "collapsed": "./icons/_fd_mock.svg",
+          "expanded": "./icons/_fd_mock_open.svg"
         },
         "__mocks__": {
-          "collapsed": {
-            "path": "./icons/_fd_mock.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_mock_open.svg"
-          }
+          "collapsed": "./icons/_fd_mock.svg",
+          "expanded": "./icons/_fd_mock_open.svg"
         },
         "locales": {
-          "collapsed": {
-            "path": "./icons/_fd_locale.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_locale_open.svg"
-          }
+          "collapsed": "./icons/_fd_locale.svg",
+          "expanded": "./icons/_fd_locale_open.svg"
         },
         "locale": {
-          "collapsed": {
-            "path": "./icons/_fd_locale.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_locale_open.svg"
-          }
+          "collapsed": "./icons/_fd_locale.svg",
+          "expanded": "./icons/_fd_locale_open.svg"
         },
         "i18n": {
-          "collapsed": {
-            "path": "./icons/_fd_locale.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_locale_open.svg"
-          }
+          "collapsed": "./icons/_fd_locale.svg",
+          "expanded": "./icons/_fd_locale_open.svg"
         },
         "l10n": {
-          "collapsed": {
-            "path": "./icons/_fd_locale.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_locale_open.svg"
-          }
+          "collapsed": "./icons/_fd_locale.svg",
+          "expanded": "./icons/_fd_locale_open.svg"
         },
         "lang": {
-          "collapsed": {
-            "path": "./icons/_fd_locale.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_locale_open.svg"
-          }
+          "collapsed": "./icons/_fd_locale.svg",
+          "expanded": "./icons/_fd_locale_open.svg"
         },
         "languages": {
-          "collapsed": {
-            "path": "./icons/_fd_locale.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_locale_open.svg"
-          }
+          "collapsed": "./icons/_fd_locale.svg",
+          "expanded": "./icons/_fd_locale_open.svg"
         },
         "coverage": {
-          "collapsed": {
-            "path": "./icons/_fd_coverage.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_coverage_open.svg"
-          }
+          "collapsed": "./icons/_fd_coverage.svg",
+          "expanded": "./icons/_fd_coverage_open.svg"
         },
         ".nyc_output": {
-          "collapsed": {
-            "path": "./icons/_fd_coverage.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_coverage_open.svg"
-          }
+          "collapsed": "./icons/_fd_coverage.svg",
+          "expanded": "./icons/_fd_coverage_open.svg"
         },
         ".nuxt": {
-          "collapsed": {
-            "path": "./icons/_fd_nuxt.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_nuxt_open.svg"
-          }
+          "collapsed": "./icons/_fd_nuxt.svg",
+          "expanded": "./icons/_fd_nuxt_open.svg"
         },
         ".next": {
-          "collapsed": {
-            "path": "./icons/_fd_next.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_next_open.svg"
-          }
+          "collapsed": "./icons/_fd_next.svg",
+          "expanded": "./icons/_fd_next_open.svg"
         },
         ".expo": {
-          "collapsed": {
-            "path": "./icons/_fd_expo.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_expo_open.svg"
-          }
+          "collapsed": "./icons/_fd_expo.svg",
+          "expanded": "./icons/_fd_expo_open.svg"
         },
         ".svelte-kit": {
-          "collapsed": {
-            "path": "./icons/_fd_svelte.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_svelte_open.svg"
-          }
+          "collapsed": "./icons/_fd_svelte.svg",
+          "expanded": "./icons/_fd_svelte_open.svg"
         },
         "graphql": {
-          "collapsed": {
-            "path": "./icons/_fd_graphql.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_graphql_open.svg"
-          }
+          "collapsed": "./icons/_fd_graphql.svg",
+          "expanded": "./icons/_fd_graphql_open.svg"
         },
         "gradle": {
-          "collapsed": {
-            "path": "./icons/_fd_gradle.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_gradle_open.svg"
-          }
+          "collapsed": "./icons/_fd_gradle.svg",
+          "expanded": "./icons/_fd_gradle_open.svg"
         },
         ".gradle": {
-          "collapsed": {
-            "path": "./icons/_fd_gradle.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_gradle_open.svg"
-          }
+          "collapsed": "./icons/_fd_gradle.svg",
+          "expanded": "./icons/_fd_gradle_open.svg"
         },
         ".mvn": {
-          "collapsed": {
-            "path": "./icons/_fd_maven.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_maven_open.svg"
-          }
+          "collapsed": "./icons/_fd_maven.svg",
+          "expanded": "./icons/_fd_maven_open.svg"
         },
         "bin": {
-          "collapsed": {
-            "path": "./icons/_fd_binary.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_binary_open.svg"
-          }
+          "collapsed": "./icons/_fd_binary.svg",
+          "expanded": "./icons/_fd_binary_open.svg"
         },
         ".bin": {
-          "collapsed": {
-            "path": "./icons/_fd_binary.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_binary_open.svg"
-          }
+          "collapsed": "./icons/_fd_binary.svg",
+          "expanded": "./icons/_fd_binary_open.svg"
         },
         "include": {
-          "collapsed": {
-            "path": "./icons/_fd_include.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_include_open.svg"
-          }
+          "collapsed": "./icons/_fd_include.svg",
+          "expanded": "./icons/_fd_include_open.svg"
         },
         "includes": {
-          "collapsed": {
-            "path": "./icons/_fd_include.svg"
-          },
-          "expanded": {
-            "path": "./icons/_fd_include_open.svg"
-          }
+          "collapsed": "./icons/_fd_include.svg",
+          "expanded": "./icons/_fd_include_open.svg"
         }
       },
       "chevron_icons": {
-        "collapsed": {
-          "path": "./icons/chevron_right.svg"
-        },
-        "expanded": {
-          "path": "./icons/chevron_down.svg"
-        }
+        "collapsed": "./icons/chevron_right.svg",
+        "expanded": "./icons/chevron_down.svg"
       },
       "file_stems": {
         "webpack.js": "webpack",
